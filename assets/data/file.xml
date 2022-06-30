@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<Company>
+  <Employee>
+      <FirstName type="TextField">Tanmay</FirstName>
+      <LastName type="TextField">First</LastName>
+      <ContactNo type="TextField">111</ContactNo>
+      <Stock type="Stock">0</Stock>
+      <Test type="MultiSelect|one|two|three">one,two</Test>
+      <Test2 type="MultiSelect|one1|two2|three3">one1,two2</Test2>
+  </Employee>
+  <Employee>
+      <FirstName type="TextField">Sam</FirstName>
+      <LastName type="TextField">Second</LastName>
+      <ContactNo type="TextField">222</ContactNo>
+      <Stock type="Stock">3</Stock>
+      <Test type="MultiSelect|one|two|three">one,two,three</Test>
+      <Test2 type="MultiSelect|one1|two2|three3">one1,two2</Test2>
+  </Employee>
+  <Employee>
+      <FirstName type="TextField">Bob</FirstName>
+      <LastName type="TextField">Third</LastName>
+      <ContactNo type="TextField">333</ContactNo>
+      <Stock type="Stock">17</Stock>
+      <Test type="MultiSelect|one|two|three">one,three</Test>
+      <Test2 type="MultiSelect|one1|two2|three3">one1,two2</Test2>
+  </Employee>
+  <Employee>
+      <FirstName type="TextField">Kostas</FirstName>
+      <LastName type="TextField">Fourth</LastName>
+      <ContactNo type="TextField">444</ContactNo>
+      <Stock type="Stock">25</Stock>
+      <Test type="MultiSelect|one|two|three">one,two,three</Test>
+      <Test2 type="MultiSelect|one1|two2|three3">one1,two2</Test2>
+  </Employee>
+</Company>
